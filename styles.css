@@ -17,6 +17,8 @@
 }
 
 #spaceShuttleHeight {
+    div.absolute{
+     position: absolute}
     display: inline-block;
 }
 
